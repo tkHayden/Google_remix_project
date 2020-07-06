@@ -1,0 +1,1 @@
+This is a practice project from The Odin Project to create a hompeage similar to the Google homepage. 
